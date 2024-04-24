@@ -10,7 +10,7 @@ Features:
  - Giving Rating
  - Error Validation Handling
 
-Screenshots:
+Screenshots:<br>
 ![image](https://github.com/Kadigas/ppb_midterm_exam/assets/87473932/0708034f-c856-4361-b176-d32de6d59771)
 ![image](https://github.com/Kadigas/ppb_midterm_exam/assets/87473932/d7a37c3b-2077-48e3-9966-fe38df916fdd)
 ![image](https://github.com/Kadigas/ppb_midterm_exam/assets/87473932/e5b0ab31-333a-42e5-96d3-21b111ba1469)
